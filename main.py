@@ -1,0 +1,8 @@
+a = input()
+a1 = a.count('5')
+a2 = a.count('6')
+a3 = a.count('7')
+a4 = a.count('8')
+a5 = a.count('9')
+summa = (a1 + a2 + a3 + a4)
+print(summa)
